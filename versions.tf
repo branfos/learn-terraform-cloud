@@ -1,5 +1,4 @@
 terraform {
-
   cloud {
     organization = "brandonfoster"
 
@@ -7,5 +6,4 @@ terraform {
       name = "demo_workspace"
     }
   }
-
- 
+}
