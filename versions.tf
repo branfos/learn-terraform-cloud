@@ -1,10 +1,10 @@
 terraform {
 
   cloud {
-    organization = "hashicorp-learn"
+    organization = "brandonfoster"
 
     workspaces {
-      name = "learn-terraform-cloud"
+      name = "demo workspace"
     }
   }
 
